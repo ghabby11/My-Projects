@@ -1,0 +1,3 @@
+([('tide_predictor',
+   '/Users/gabby/PycharmProjects/Tide_Predictor/dist/tide_predictor',
+   'EXECUTABLE')],)

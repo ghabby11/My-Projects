@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+
+{% block title %}Select Movie{% endblock %}
+
+{% block content %}
+<div class="container">
+    <h1 class="heading">Select Movie</h1>
+    {% if tmdb_list %}
+        {% for movie in tmdb_list %}
+            <div style="margin-bottom: 10px;">
+                <a href="{{ url_for('select', movie_id=movie.id, q=request.args.get('q')) }}">
+                    {{ movie.title }} — {{ movie.release_date }}
+                </a>
+            </div>
+        {% endfor %}
+    {% else %}
+        <p>No results found. Try another search.</p>
+    {% endif %}
+</div>
+{% endblock %}

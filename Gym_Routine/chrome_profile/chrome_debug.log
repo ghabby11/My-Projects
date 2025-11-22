@@ -1,0 +1,21 @@
+[5312:226196:1001/160119.663779:INFO:components/enterprise/browser/controller/chrome_browser_cloud_management_controller.cc:206] No machine level policy manager exists.
+[5312:226196:1001/160120.473274:INFO:CONSOLE:1] "Test data already exists", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483110:INFO:CONSOLE:1] "Data initialization result: [object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483182:INFO:CONSOLE:1] "Users in DB: 24 [object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object],[object Object]", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483274:INFO:CONSOLE:1] "Classes in DB: 96", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483288:INFO:CONSOLE:1] "Bookings in DB: 0 ", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483707:INFO:CONSOLE:1] "Database initialized! Available commands:", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483772:INFO:CONSOLE:1] "  await window.db.getAll("users")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483804:INFO:CONSOLE:1] "  await window.db.getAll("classes")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483834:INFO:CONSOLE:1] "  await window.db.getAll("bookings")", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.483863:INFO:CONSOLE:1] "  await window.testData.resetAllData() - Reset all data", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160120.656356:INFO:CONSOLE:0] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://appbrewery.github.io/gym/login/ (0)
+[5312:226196:1001/160120.751677:INFO:CONSOLE:1] "Loading...", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226196:1001/160121.987699:INFO:CONSOLE:1] "Login failed Error: Network request failed. Please try again.", source: https://appbrewery.github.io/gym/_next/static/chunks/pages/index-d263818a138e725c.js (1)
+[5312:226226:1001/160122.893722:ERROR:google_apis/gcm/engine/registration_request.cc:291] Registration response error message: DEPRECATED_ENDPOINT
+[5312:226222:1001/160230.866869:WARNING:net/dns/dns_config_service_posix.cc:201] Failed to read DnsConfig.
+[5318:226279:1001/160230.866949:WARNING:net/dns/dns_config_service_posix.cc:201] Failed to read DnsConfig.
+[5318:226279:1001/164155.675441:WARNING:net/dns/dns_config_service_posix.cc:201] Failed to read DnsConfig.
+[5312:226222:1001/164155.675604:WARNING:net/dns/dns_config_service_posix.cc:201] Failed to read DnsConfig.
+[5318:226279:1001/165550.924277:WARNING:net/dns/dns_config_service_posix.cc:201] Failed to read DnsConfig.
+[5312:226222:1001/165550.924349:WARNING:net/dns/dns_config_service_posix.cc:201] Failed to read DnsConfig.

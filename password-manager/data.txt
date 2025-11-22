@@ -1,0 +1,5 @@
+gab| johndoe@live.com| gh
+gfd| gb@g.co| hg
+gab| johndoe@live.com| hana
+gs| johndoe@live.com| gsb
+gsb| hgns| ns
